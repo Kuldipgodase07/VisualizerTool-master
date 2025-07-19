@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Visualizer Tool ![Logo](icons/logo.png)
 
 A powerful Visualization tool that allows users to draw various shapes based on their input.
@@ -40,8 +39,7 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 
 A big thank you to the following individuals for their contributions to this project:
 
-- [Kuldip Godase](23f2001863@ds.study.iitm.ac.in
-) (Myself)
+- [Kuldip Godase](23f2001863@ds.study.iitm.ac.in) (Myself)
 - []() 
 - []()
 
