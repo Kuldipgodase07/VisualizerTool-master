@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visualizer Tool ![Logo](icons/logo.png)
 
 A powerful Visualization tool that allows users to draw various shapes based on their input.
@@ -39,10 +40,15 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 
 A big thank you to the following individuals for their contributions to this project:
 
-- [Utkarsh Trivedi](mailto:221210114@nitdelhi.ac.in) (Myself)
-- [Shreyansh Gupta](mailto:221210099@nitdelhi.ac.in) 
-- [Shivam Kumar](mailto:221210098@nitdelhi.ac.in)
+- [Kuldip Godase](23f2001863@ds.study.iitm.ac.in
+) (Myself)
+- []() 
+- []()
 
 ## Contact
 
-For questions or inquiries, please contact [<ins>here</ins>](trivediutkarsh31@gmail.com).
+For questions or inquiries, please contact [<ins>here</ins>](23f2001863@ds.study.iitm.ac.in).
+=======
+# VisualizerTool-master
+>>>>>>> d427fea8dc7b356209d47a2dfe6bb7ac5c2427ae
+trivediutkarsh31
